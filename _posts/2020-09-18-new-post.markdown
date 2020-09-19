@@ -1,0 +1,6 @@
+---
+layout: post
+permalink: /new_post/
+---
+
+This is my new post!
