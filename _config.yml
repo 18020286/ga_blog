@@ -22,7 +22,7 @@ title:
 email:
 description:
 baseurl: "ga_blog" # the subpath of your site, e.g. /blog
-url: "https://18020286.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:
 # Build settings
 theme: minima
