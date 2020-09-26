@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Contact
 ---
 
 My name is Nguyen Tien Dat!
