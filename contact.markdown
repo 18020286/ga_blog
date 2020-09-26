@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Contact
-permalink: /contact/
+permalink: https://18020286.github.io/ga_blog/contact/
 ---
 
 My name is Nguyen Tien Dat!
